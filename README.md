@@ -1,2 +1,2 @@
-# py-homework
-python_homework
+# py-list
+python_list
